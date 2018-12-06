@@ -1,5 +1,12 @@
 
 <section id="payseraAdditionalInformation">
+     {* EDBOX - pridedame galimybe rodyti papildoma info *}
+    <p>{l s='Būsite nukreipti į pasirinkto apmokėjimo būdo sistemą.' mod='paysera'}</p>
+    <p>
+        <strong>{l s='Dėmesio' mod='paysera'} </strong>
+        {l s='Lizingai teikiami 7:00 - 22:00' mod='paysera'}
+    </p>
+    {* / EDBOX *}
     <div class="form-group row">
         <div class="col-sm-12 form-control-label clearfix">
             <label class="float-left">
