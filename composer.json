@@ -1,0 +1,9 @@
+{
+    "name": "sarjon/paysera",
+    "type": "prestashop-module",
+    "autoload": {
+        "classmap": [
+            "lib/"
+        ]
+    }
+}
